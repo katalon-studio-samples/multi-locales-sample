@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Run with local Chrome</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb024fd3-ae15-4f3a-9d36-39299405a93f</testCaseGuid>
+   <variable>
+      <defaultValue>'en'</defaultValue>
+      <description></description>
+      <id>fa3b52df-1e68-4d89-9a80-212e3fc15efa</id>
+      <masked>false</masked>
+      <name>locale</name>
+   </variable>
+</TestCaseEntity>
